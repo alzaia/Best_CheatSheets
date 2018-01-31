@@ -6,7 +6,7 @@ This is a list of the best cheat sheets I have found for software engineering, d
 ### Software Engineering
 
 * UML design : https://www.cheatography.com/cheatography/cheat-sheets/uml-quick-reference/
-* Design patterns : 
+* Design patterns : find 
 
 
 
