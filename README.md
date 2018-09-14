@@ -42,6 +42,7 @@ This is a list of the best cheat sheets I have found for software engineering, d
 
 
 
+
 ### Math
 
 
@@ -54,8 +55,10 @@ This is a list of the best cheat sheets I have found for software engineering, d
 
 
 
+### Other Useful Links
 
 
+* Collection of various machine learning related cheatsheets from the CS-229 course (Stanford): https://github.com/afshinea/stanford-cs-229-machine-learning
 
 
 
