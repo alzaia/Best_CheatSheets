@@ -31,7 +31,7 @@ This is a list of useful cheat sheets for people working in fields such as machi
 
 * Neural Networks: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 * Neural Network Graphs: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
-* TensorFlow: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+* TensorFlow: https://aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf
 * Keras: http://datacamp-community.s3.amazonaws.com/94fc681d-5422-40cb-a129-2218e9522f17
 * PyTorch: https://www.sznajdman.com/wp-content/uploads/2018/02/pytorch-cheat.jpg
 * The Deep Learning Book: https://www.deeplearningbook.org/
